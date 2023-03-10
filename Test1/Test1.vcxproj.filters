@@ -18,6 +18,15 @@
     <MASM Include="Main.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="Stack.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="ReverseVector.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Stack2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
