@@ -27,12 +27,18 @@
     <MASM Include="Stack2.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="Task2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="DividirSenseDividir.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
