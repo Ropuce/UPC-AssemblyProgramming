@@ -9,4 +9,11 @@ int main() {
 	if (B == 0) {
 		return(-1);
 	}
+
+	for (i = A; i >= B; i -= B) {
+		quo++;
+	}
+	rem = i;
+
+	return 0;
 }

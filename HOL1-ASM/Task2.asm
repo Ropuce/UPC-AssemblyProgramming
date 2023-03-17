@@ -21,7 +21,7 @@ jmp loop_start
 
 loop_end:
 
-xor EBX, EBX
+xor EBX, EBX ; aquesta instruccio no es necessaria, la utilitzo per posar un breakpoint despres del loop
 
 ; Un cop arribat a aquest punt EAX conté la resta i ECX conté el quocient
 
